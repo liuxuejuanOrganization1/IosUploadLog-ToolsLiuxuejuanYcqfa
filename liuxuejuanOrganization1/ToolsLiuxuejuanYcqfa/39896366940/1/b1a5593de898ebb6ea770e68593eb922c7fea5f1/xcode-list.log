@@ -1,0 +1,16 @@
+Command line invocation:
+    /Applications/Xcode_26.3.app/Contents/Developer/usr/bin/xcodebuild -list -workspace /Users/runner/work/ToolsLiuxuejuanYcqfa/ToolsLiuxuejuanYcqfa/ToolsLiuxuejuanYcqfa.xcworkspace
+
+Information about workspace "ToolsLiuxuejuanYcqfa":
+    Schemes:
+        LiuXJSubscriptionKit
+        LiuXJSubscriptionKit-LiuXJSubscriptionKit
+        Pods-ToolsLiuxuejuanYcqfa
+        Pods-ToolsLiuxuejuanYcqfa_Test
+        SVProgressHUD
+        ToolsLiuxuejuanYcqfa
+        ToolsLiuxuejuanYcqfa_Test
+        UMAPM
+        UMCommon
+        UMDevice
+
